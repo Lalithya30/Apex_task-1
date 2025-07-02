@@ -1,4 +1,3 @@
-# Apex_task-1
 # APEX Task 1 - Basic Webpage using HTML, CSS, and JavaScript
 
 ## 📌 Task Objective
@@ -20,9 +19,6 @@ The goal of Task 1 is to create a simple, interactive webpage using the foundati
 - Sample image section
 - Useful learning resource links
 - Interactive button that displays an alert on click
-
-## 📸 Demo
-[Click to watch the demo](./APEX%20Task%201.mp4) or open the `index.html` in your browser.
 
 ## ✨ Output Preview
 The webpage contains:
